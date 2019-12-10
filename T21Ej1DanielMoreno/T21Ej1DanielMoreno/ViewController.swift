@@ -17,6 +17,11 @@ class ViewController: UIViewController {
         
         //AWESOME CHANGE IN THE PROJECT!!
     }
+    
+    func excitingMethod(){
+        
+        print("woooooow!!")
+    }
 
 
 }
